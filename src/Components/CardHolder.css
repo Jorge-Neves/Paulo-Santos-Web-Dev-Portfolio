@@ -1,0 +1,17 @@
+body {
+    font-family: Ubuntu, "times new roman", times, roman, serif;
+    background-color: black;
+}
+
+.landingBG{
+    
+    height: 100vh;
+    filter: brightness(0.2);
+    z-index: -1;
+}
+
+.Bg{
+    padding-left: 0;
+    padding-right: 0;
+}
+

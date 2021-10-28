@@ -1,0 +1,33 @@
+.navBarPositionFixed{
+    position: fixed;
+    top: 5%;
+    width: 100%;
+    z-index: 105;
+ }
+
+.textColor{
+     color: white;
+ }
+
+.navBarFlexCenter{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+
+}
+
+.navBarFlexApart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navBarFlexCenter h4{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.navBarFlexCenter h6{
+    margin-left: 15px;
+    margin-right: 15px;
+}

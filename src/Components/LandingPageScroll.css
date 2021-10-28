@@ -1,0 +1,31 @@
+.imageSlider{
+    width: 100%;
+    position: absolute;
+    overflow-x: hidden;
+}
+
+.imageSlider .imageSliderRow{
+    width: 2956px;
+    height: 194.5px;
+    background-size: 2956px 194.5px;
+    -webkit-animation: slide 50s linear infinite;
+            animation: slide 50s linear infinite;
+}
+
+@-webkit-keyframes slide {
+    from {
+      background-position-x: 0;
+    }
+    to {
+      background-position-x: -2956px;
+    }
+  }
+  
+  @keyframes slide {
+    from {
+      background-position-x: 0;
+    }
+    to {
+      background-position-x: -2956px;
+    }
+  }
