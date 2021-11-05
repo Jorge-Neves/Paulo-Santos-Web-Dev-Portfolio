@@ -1,5 +1,6 @@
 import React from "react";
 import "./NavBar.css"
+import { NavLink } from "react-router-dom"
 
 function NavBar() {
 
@@ -7,9 +8,14 @@ function NavBar() {
     <>
         <div className="navBarPositionFixed textColor">
             <div className="navBarFlexCenter">
-                <h6>Home</h6>
-                <h6>About me</h6>
+                
+                <NavLink exact to="/" className="Links">
                 <h6>Projects</h6>
+                </NavLink>    
+                <NavLink exact to="/about" className="Links">
+                    <h6>About me</h6>
+                </NavLink>
+                
                 
             </div>
         </div>

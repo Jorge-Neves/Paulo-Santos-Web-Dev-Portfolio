@@ -7,9 +7,9 @@ function Footer() {
     <>
         <div className="FooterPositionFixed textColor">
             <div className="FooterFlexCenter">
-                <h6>Github</h6>
-                <h6>LinkedIn</h6>
-                <h6>Codewars</h6>
+            <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/linked.png" alt="Github Logo" className="footerIcons" /> </a>
+            <a href="https://github.com/Jorge-Neves" target="_blank"><img src="/githublogo.png" alt="LinkedIn Logo" className="footerIcons" /> </a>
+    
             </div>
         </div>
     </>

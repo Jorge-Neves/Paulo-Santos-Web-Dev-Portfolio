@@ -28,3 +28,10 @@
     margin-left: 15px;
     margin-right: 15px;
 }
+
+.footerIcons{
+    filter: invert(100%);
+    height: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

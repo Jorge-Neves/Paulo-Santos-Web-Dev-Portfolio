@@ -1,6 +1,7 @@
 .navBarPositionFixed{
     position: fixed;
     top: 5%;
+    left: -100px;
     width: 100%;
     z-index: 105;
  }
