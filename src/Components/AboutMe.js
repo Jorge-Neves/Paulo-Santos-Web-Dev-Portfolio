@@ -19,9 +19,9 @@ function AboutMe(){
             <Row className="upperSpacing">
             </Row>
             <Row>
-                <Col sm={1}>
-                </Col>
                 <Col sm={2}>
+                </Col>
+                <Col sm={1}>
                     <Fade bottom>
                         <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/paulo.png" alt="A photograph of Paulo Santos" className="portraitImageSizing" /> </a>
                     </Fade>
@@ -32,14 +32,7 @@ function AboutMe(){
                     <p className="textColor">I'm a full-stack based in Lisbon, Portugal with a background in health sciences looking to innovate trough code and create beautiful apps. </p> 
                     <p className="textColor">In this portfolio website you will find projects I've made in the past as well as ideas I'm currently developing. </p>
                 </Fade>
-
-                </Col>
-            </Row>
-            <Row>
-                <Col sm={3}>
-
-                </Col>
-                <Col sm={9}>
+                <div className="upperSpacing"></div>
                 <Fade bottom>
                     <p className="textColor"> Contacts </p>
                 </Fade>
@@ -57,6 +50,14 @@ function AboutMe(){
                     <a href="https://drive.google.com/file/d/1-UT6f4tUmxLM6iqrZ4qYHlyHbSKOX6Xe/view?usp=sharing" target="_blank"><p className="textColor"> Resume </p> </a>
                 </Fade>
                 </div>
+                </Col>
+            </Row>
+            <Row>
+                <Col sm={3}>
+
+                </Col>
+                <Col sm={9}>
+                
                 </Col>
             </Row>
             <Row>

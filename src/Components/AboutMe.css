@@ -1,6 +1,6 @@
 .portraitImageSizing{
     border-radius: 50%;
-    width: 200px;
+    width: 300px;
     filter: opacity(50%);
     filter: grayscale(80%);
 
@@ -8,7 +8,7 @@
 
 .portraitImageSizing:hover{
     border-radius: 50%;
-    width: 200px;
+    width: 350px;
     filter: opacity(100%);
     filter: grayscale(0%);
     transition-duration: 1s;
