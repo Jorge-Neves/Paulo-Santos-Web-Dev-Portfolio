@@ -1,2 +1,21 @@
-# Paulo-Santos-Web-Dev-Portfolio
-The frontend logic and styling for my web dev portfolio. Hopefully this will inspire you to create feel free to message me. Would love to discuss design
+
+ 
+<img src=/Documentation23.png alt="Landing Page" />
+
+
+
+## Description
+This is a React Website where i showcase future and past projects.
+
+<a href="https://paulo-j-santos.netlify.app/about" target="_blank">Portfolio</a>
+
+## Made by
+
+### Paulo Santos
+email: paulo.jorge.ngs@gmail.com
+<br>
+linkedIn: www.linkedin.com/in/paulo-j-santos
+
+<br>
+<br>
+Thank you for stopping by :)
