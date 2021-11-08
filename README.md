@@ -7,7 +7,7 @@
 ## Description
 This is a React Website where i showcase future and past projects.
 
-<a href="https://paulo-j-santos.netlify.app/about" target="_blank">Portfolio</a>
+<a href="https://paulo-j-santos.netlify.app/" target="_blank">Portfolio</a>
 
 ## Made by
 
