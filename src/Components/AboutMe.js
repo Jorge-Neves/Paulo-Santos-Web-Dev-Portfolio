@@ -47,7 +47,7 @@ function AboutMe(){
                     <a href="https://github.com/Jorge-Neves" target="_blank"><p className="textColor"> GitHub </p> </a>
                 </Fade>
                 <Fade bottom>
-                    <a href="https://drive.google.com/file/d/1-UT6f4tUmxLM6iqrZ4qYHlyHbSKOX6Xe/view?usp=sharing" target="_blank"><p className="textColor"> Resume </p> </a>
+                    <a href="https://drive.google.com/file/d/1CWzBfpV9V73PRosmWU0X--gGMqJKtFNM/view?usp=sharing" target="_blank"><p className="textColor"> Resume </p> </a>
                 </Fade>
                 </div>
                 </Col>
