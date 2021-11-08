@@ -1,6 +1,6 @@
 
  
-<img src=/DocumentationScreenshot2.png alt="Landing Page for Kailo Tracker web app" />
+<img src=/Documentation23.png alt="Landing Page" />
 
 
 
