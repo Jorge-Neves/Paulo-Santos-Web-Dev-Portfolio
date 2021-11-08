@@ -29,7 +29,7 @@ function CardHolder(){
                                     <p className="textColor">I/O for Kailo (Hackathon #CompormetidosPorElFuturo 2021)</p>
                                     <div className="ProjectsFlexSpacing">
                                         <a href="https://github.com/Jorge-Neves/I-O-for-Kailo---Hackathon-2021-entry" target="_blank"><p className="textColor">Github</p></a>
-                                        <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><p p className="textColor">Demo</p></a>
+                                        <a href="https://io-for-kailo-hackathon-2021-frontend.netlify.app/" target="_blank"><p p className="textColor">Demo</p></a>
                                     </div>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@ function CardHolder(){
                                     <p className="textColor">High Noon</p>
                                     <div className="ProjectsFlexSpacing">
                                         <a href="https://github.com/Jorge-Neves/High-Noon" target="_blank"><p className="textColor">Github</p></a>
-                                        <a href="https://io-for-kailo-hackathon-2021-frontend.netlify.app/" target="_blank"><p p className="textColor">Demo</p></a>
+                                        <a href="https://highnoontimetracker.netlify.app/" target="_blank"><p p className="textColor">Demo</p></a>
                                     </div>
                                 </div>
                             </div>
