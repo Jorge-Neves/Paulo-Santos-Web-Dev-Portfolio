@@ -36,6 +36,9 @@
     margin: 25px;
 }
 
+.TextFormatting{
+    margin:30px;
+}
 .flexCenter{
     display: flex;
     flex-direction: row;

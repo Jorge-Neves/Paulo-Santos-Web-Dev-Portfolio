@@ -28,9 +28,11 @@ function AboutMe(){
                 </Col>
                 <Col sm={9}>
                 <Fade bottom>
+                <div className="TextFormatting">
                     <p className="textColor">Greetings! I'm Paulo Santos.</p>
                     <p className="textColor">I'm a full-stack based in Lisbon, Portugal with a background in health sciences looking to innovate trough code and create beautiful apps. </p> 
                     <p className="textColor">In this portfolio website you will find projects I've made in the past as well as ideas I'm currently developing. </p>
+                </div>
                 </Fade>
                 <div className="upperSpacing"></div>
                 <Fade bottom>
