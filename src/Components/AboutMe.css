@@ -27,7 +27,11 @@
 }
 
 .upperSpacing{
-    height: 200px;
+    height: 100px;
+}
+
+.lowerSpacing{
+    height: 50px;
 }
 
 .textColor{

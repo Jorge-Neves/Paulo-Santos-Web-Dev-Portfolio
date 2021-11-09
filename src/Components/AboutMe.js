@@ -21,20 +21,24 @@ function AboutMe(){
             <Row>
                 <Col sm={2}>
                 </Col>
-                <Col sm={1}>
-                    <Fade bottom>
+               
+                
+                <Col sm={8}>
+                <div className="FlexRow">
+                <Fade bottom>
+                <div className="TextFormatting">
                         <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/paulo.png" alt="A photograph of Paulo Santos" className="portraitImageSizing" /> </a>
+                    </div>
                     </Fade>
-                </Col>
-                <Col sm={9}>
                 <Fade bottom>
                 <div className="TextFormatting">
                     <p className="textColor">Greetings! I'm Paulo Santos.</p>
                     <p className="textColor">I'm a full-stack based in Lisbon, Portugal with a background in health sciences looking to innovate trough code and create beautiful apps. </p> 
                     <p className="textColor">In this portfolio website you will find projects I've made in the past as well as ideas I'm currently developing. </p>
                 </div>
+                
                 </Fade>
-                <div className="upperSpacing"></div>
+                </div>
                 <Fade bottom>
                     <p className="textColor"> Contacts </p>
                 </Fade>
@@ -53,6 +57,8 @@ function AboutMe(){
                 </Fade>
                 </div>
                 </Col>
+                <Col sm={2}>
+                </Col>
             </Row>
             <Row>
                 <Col sm={3}>
@@ -70,7 +76,16 @@ function AboutMe(){
                
                 </Col>
             </Row>
-            <Footer />
+            <Row className="lowerSpacing">
+            </Row>
+            <Row>
+            <div className="FooterFlexCenter">
+            <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/linked.png" alt="Github Logo" className="footerIcons" /> </a>
+            <a href="https://github.com/Jorge-Neves" target="_blank"><img src="/githublogo.png" alt="LinkedIn Logo" className="footerIcons" /> </a>
+    
+            </div>
+            </Row>
+            
         </Container>
     )
 }
