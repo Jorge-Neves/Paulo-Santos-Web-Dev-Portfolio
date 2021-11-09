@@ -21,7 +21,7 @@ function CardHolder(){
 
                 </Col>
                 <Col sm={6}>
-                    <div className="FlexRow">
+                    
                     <Fade bottom>
                             <div>
                                 <a href="https://github.com/Jorge-Neves/I-O-for-Kailo---Hackathon-2021-entry" target="_blank"><img src="/DocumentationScreenshot2.png" alt="A photograph of Paulo Santos" className="projectImageSizing" /> </a>
@@ -34,6 +34,8 @@ function CardHolder(){
                                 </div>
                             </div>
                         </Fade>
+                        </Col>
+                         <Col sm={3}>
                         <Fade bottom>
                             <div>
                                 <a href="https://github.com/Jorge-Neves/High-Noon" target="_blank"><img src="/Documentation.png" alt="A photograph of Paulo Santos" className="projectImageSizing" /> </a>
@@ -46,7 +48,7 @@ function CardHolder(){
                                 </div>
                             </div>
                         </Fade>
-                    </div>
+                  
                  
                 </Col>
                 <Col sm={3}>
@@ -57,8 +59,7 @@ function CardHolder(){
             <Col sm={3}>
 
 </Col>
-<Col sm={6}>
-    <div className="FlexRow">
+<Col sm={3}>
     <Fade bottom>
             <div>
                 <a href="https://github.com/Jorge-Neves/Quidditch-Manager-Project" target="_blank"><img src="/DocumentationScreenshot.png" alt="A photograph of Paulo Santos" className="projectImageSizing" /> </a>
@@ -71,6 +72,8 @@ function CardHolder(){
                 </div>
             </div>
         </Fade>
+        </Col>
+        <Col sm={3}>
         <Fade bottom>
             <div>
                 <a href="https://github.com/Jorge-Neves/Save-The-Theater-Project" target="_blank"><img src="/DocumentationScreen.png" alt="A photograph of Paulo Santos" className="projectImageSizing" /> </a>
@@ -83,7 +86,7 @@ function CardHolder(){
                 </div>
             </div>
         </Fade>
-    </div>
+    
  
 </Col>
 <Col sm={3}>
